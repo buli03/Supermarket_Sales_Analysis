@@ -7,6 +7,7 @@
 ### https://html-preview.github.io/?url=https://github.com/buli03/Super_Market_Sales_Analysis/blob/main/Supermarket_Sales.html
 
 ### To run this respository on your PC run: 
+#### In the folder in which the respository is located: 
 - " python -m venv ENVNAME " -> creates a virtual environment for Python named ENVNAME
 - " venv\Scripts\activate "
 - " pip install -r requirements.txt " -> download all necessary libraries
