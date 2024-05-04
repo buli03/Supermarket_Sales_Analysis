@@ -4,7 +4,7 @@
 ### https://html-preview.github.io/?url=https://github.com/buli03/Super_Market_Sales_Analysis/blob/main/ProfileReport.html
 
 ### if you want to preview Supermarket_Sales.html go to: 
-### https://html-preview.github.io/?url=https://github.com/buli03/Super_Market_Sales_Analysis/blob/main/Supermarket_Sales.html
+### https://html-preview.github.io/?url=https://github.com/buli03/Super_Market_Sales_Analysis/blob/main/Supermarket_sales.html
 
 ### To run this respository on your PC run: 
 #### In the folder in which the respository is located: 
