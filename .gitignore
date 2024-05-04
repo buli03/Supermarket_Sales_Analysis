@@ -1,3 +1,4 @@
+/venv/
 venv/pyvenv.cfg
 venv/Lib/site-packages/numpy-1.26.4-cp312-cp312-win_amd64.whl
 venv/Lib/site-packages/six.py
