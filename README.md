@@ -11,3 +11,4 @@
 - " venv\Scripts\activate "
 - " pip install -r requirements.txt " -> download all necessary libraries
 - " python -m ipykernel install --user --name=ENVNAME "-> makes your venv accessible through jupyter notebook
+- " jupyter notebook " -> to run the project in jupyter notebook localhost server
